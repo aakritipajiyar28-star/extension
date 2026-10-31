@@ -1,0 +1,6 @@
+{
+  "name": "NUANCE – Multimodal Intelligence & Safety Layer",
+  "description": "Intelligent Chrome Extension companion for WhatsApp Web providing Multimodal Language Intelligence, Cultural Context Interpretation, Voice Note Intelligence, and Smart Safety Shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
